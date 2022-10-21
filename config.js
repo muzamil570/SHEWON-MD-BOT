@@ -8,8 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
-//▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
+//▮WHATSAPP US : +92 323 158 2002
+//▮YOUTUBE CHANNELL: https://youtubeinstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
-global.botname = 'SHEWON MD BOT'
+global.owner = ['923231582002','']
+global.premium = ['923231582002','923231582002']
+global.botname = 'MD BOT'
 global.ownername = 'Shewon'
-global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
-global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
-global.packname = 'SHEWON MD BOT'
-global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
+global.group1 = 'https://chat.whatsapp.comu0QPs077451u4WIk6Lt'
+global.group2 = 'https://chat.whatsapp.wDEHyuoL4SjxQgVW5gZ'
+global.packname = ' MD BOT'
+global.ytchannel = 'https://youtube.comrtooninstudio'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -52,10 +52,10 @@ global.goldAwal = '10'
 global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
-global.dripstyping = false
+global.dripstyping = true
 global.dripsreadgroup = false
 global.dripsreadall = false
-global.dripsrecord = false
+global.dripsrecord = true
 global.available = false
 global.unavailable = true
 global.limittot = 100,
