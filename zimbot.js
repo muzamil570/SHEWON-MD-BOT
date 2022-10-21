@@ -69,7 +69,7 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname = 'SHEWON MD BOT'
+botname = ' MD BOT'
 wm = 'SHEWON MD BOT'
 global.reactmoji = '📂'
 limitCount = setting.limit
@@ -238,7 +238,7 @@ switch(hari) {
     
 // TIME 
 const time2 = moment().tz('Asia/Colombo').format('HH:mm:ss')
-if(time2 < "23:59:00"){
+if(time2 < "10:09:00"){
 var ucapannya2 = `Good Night 🌒`
 }
 if(time2 < "19:00:00"){
@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['94784997828']
-global.bothelp = ['94784997828']
+global.botdev = ['923231582002']
+global.bothelp = ['923231582005']
 
 //function rpg
    const { 
